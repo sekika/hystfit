@@ -1,5 +1,7 @@
 # Instruction of hystfit
-To begin, install Python 3 along with the `hystfit` library. Once installed, create a fitting object `f` from the `hystfit.Fit` class, which is a subclass of the `unsatfit.Fit` class. For more detailed information, refer to the [unsatfit documentation](https://sekika.github.io/unsatfit/).
+To begin, install Python 3 along with the `hystfit` library. For installing on Debian system, [APT repository](https://sekika.github.io/apt/) is available.
+
+Once installed, create a fitting object `f` from the `hystfit.Fit` class, which is a subclass of the `unsatfit.Fit` class. For more detailed information, refer to the [unsatfit documentation](https://sekika.github.io/unsatfit/).
 
 ```python
 import math
