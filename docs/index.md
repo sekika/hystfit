@@ -6,6 +6,8 @@ Although Zhou's model is complex, `hystfit` simplifies the plotting of SWRCs tha
 ## Document
 Please follow the [instruction](instruction.md).
 
+See also [poster](https://researchmap.jp/sekik/presentations/48434771/attachment_file.pdf) presented at 2024 ASA, CSSA, SSSA International Annual Meeting at San Antonio.
+
 ## Example output
 Here are some figures calculated using `hystfit`. For more detailed information, please refer to the [example documentation](example.md), which provides sample codes for generating these figures.
 
